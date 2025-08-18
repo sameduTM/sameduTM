@@ -7,19 +7,19 @@
 </p>
 
 
-- 🔭 I’m currently working on a capstone project from my recent software engineering bootcamp, focusing on refining features and optimizing performance.
+🔭 I’m currently working on a capstone project from my recent software engineering bootcamp, focusing on refining features and optimizing performance.
 
-- 🌱 I’m currently learning about CI/CD pipelines and cloud services like AWS to deepen my understanding of full-stack development.
+🌱 I’m currently learning about CI/CD pipelines and cloud services like AWS to deepen my understanding of full-stack development.
 
-- 👯 I’m looking to collaborate on open-source projects, especially those related to web development or data visualization.
+👯 I’m looking to collaborate on open-source projects, especially those related to web development or data visualization.
 
-- 🤔 I’m looking for help with finding a junior developer role and advice on career growth.
+🤔 I’m looking for help with finding a junior developer role and advice on career growth.
 
-- 💬 Ask me about my bootcamp experience, the technologies I learned, or my favorite projects.
+💬 Ask me about my bootcamp experience, the technologies I learned, or my favorite projects.
 
-- 📫 How to reach me: wanyamak884@gmail.com or connect with me on linkedin.com/samedutm.
+📫 How to reach me: wanyamak884@gmail.com or connect with me on linkedin.com/samedutm.
 
-- ⚡ Fun fact: I wrote my first "Hello, World!" program when I was 18.
+⚡ Fun fact: I wrote my first "Hello, World!" program when I was 18.
 
   
 
@@ -39,13 +39,11 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="45" height="45"/>
 </p>
 
-<p>
 [![Samedu's GitHub stats](https://github-readme-stats.vercel.app/api?username=sameduTM&show_icons=true&theme=radical)](https://github.com/sameduTMgithub-readme-stats)
-</p>
+
 <p></p>
 
-<p>
-[[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=w7ivbipo6i06f111yxsuu9a1t&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=w7ivbipo6i06f111yxsuu9a1t&cover_image=true&theme=apple&show_offline=true&background_color=121212&interchange=false&mode=light)]]
-</p>
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=w7ivbipo6i06f111yxsuu9a1t&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+
 
 
