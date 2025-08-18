@@ -39,11 +39,13 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="45" height="45"/>
 </p>
 
-[![Samedu's GitHub stats](https://github-readme-stats.vercel.app/api?username=sameduTM&show_icons=true&theme=radical)](https://github.com/sameduTMgithub-readme-stats)
+<p align="center">
+<img src ="[![Samedu's GitHub stats](https://github-readme-stats.vercel.app/api?username=sameduTM&show_icons=true&theme=radical)](https://github.com/sameduTMgithub-readme-stats)" />
+</p>
 
-<p></p>
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=w7ivbipo6i06f111yxsuu9a1t&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+<p align="center">
+<img src='[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=w7ivbipo6i06f111yxsuu9a1t&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)' />
+</p>
 
 
 
