@@ -39,7 +39,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="45" height="45"/>
 </p>
 
-<p align="center">
+<p>
 <img src ="[![Samedu's GitHub stats](https://github-readme-stats.vercel.app/api?username=sameduTM&show_icons=true&theme=radical)](https://github.com/sameduTMgithub-readme-stats)" />
 </p>
 
