@@ -2,9 +2,17 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Hey%20Everyone"/>
 </p>
 
+
 <a href="https://www.instagram.com/scala_gentoo/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
 </a>
+<a href="https://www.linkedin.com/in/wekesaken/">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974488-b1834927-147b-40f4-a5e2-63251410471b.png"/>
+</a>
+<a href="https://x.com/samedutm">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974452-f61b0c03-5e74-4b95-a50d-b8d414a36f32.png"/>
+</a>
+
 
 ```
 *
