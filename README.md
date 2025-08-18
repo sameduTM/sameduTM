@@ -5,8 +5,8 @@
 <p align="center">
 <img src="https://pa1.aminoapps.com/6519/ebf67bb0f5c042e377d25a19f50ace0158fb90b6_hq.gif" />
 </p>
-```
-*
+
+
 - 🔭 I’m currently working on a capstone project from my recent software engineering bootcamp, focusing on refining features and optimizing performance.
 
 - 🌱 I’m currently learning about CI/CD pipelines and cloud services like AWS to deepen my understanding of full-stack development.
@@ -20,8 +20,9 @@
 - 📫 How to reach me: wanyamak884@gmail.com or connect with me on linkedin.com/samedutm.
 
 - ⚡ Fun fact: I wrote my first "Hello, World!" program when I was 18.
-*
-```
+
+  
+
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
@@ -38,9 +39,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="45" height="45"/>
 </p>
 
+
 [![Samedu's GitHub stats](https://github-readme-stats.vercel.app/api?username=sameduTM&show_icons=true&theme=radical)](https://github.com/sameduTMgithub-readme-stats)
 
-https://github.com/sameduTM/sameduTM/blob/output/github-contribution-grid-snake.svg
 
 
 
