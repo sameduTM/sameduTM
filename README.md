@@ -1,51 +1,55 @@
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Hey%20Everyone"/>
-</p>
+# Hi there, I'm Kennedy Wekesa (sameduTM) 👋
 
-<p align="center">
-<img src="https://pa1.aminoapps.com/6519/ebf67bb0f5c042e377d25a19f50ace0158fb90b6_hq.gif" />
-</p>
+### Full Stack Developer | Cybersecurity & Networking Enthusiast
 
+I am a goal-oriented Full Stack Developer with experience in **Python (Flask)** and **JavaScript**. I recently completed an **Outreachy Internship with the Fedora Project** and hold a **Google Cybersecurity Certificate**. I enjoy building secure, scalable applications and contributing to open-source communities.
 
-🔭 I’m currently working on a capstone project from my recent software engineering bootcamp, focusing on refining features and optimizing performance.
+---
 
-🌱 I’m currently learning about CI/CD pipelines and cloud services like AWS to deepen my understanding of full-stack development.
-
-👯 I’m looking to collaborate on open-source projects, especially those related to web development or data visualization.
-
-🤔 I’m looking for help with finding a junior developer role and advice on career growth.
-
-💬 Ask me about my bootcamp experience, the technologies I learned, or my favorite projects.
-
-📫 How to reach me: wanyamak884@gmail.com or connect with me on linkedin.com/samedutm.
-
-⚡ Fun fact: I wrote my first "Hello, World!" program when I was 18.
-
-  
-
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="45" height="45"/>
-</p>
-
-<p>
-<img src ="[![Samedu's GitHub stats](https://github-readme-stats.vercel.app/api?username=sameduTM&show_icons=true&theme=radical)](https://github.com/sameduTMgithub-readme-stats)" />
-</p>
-
-<p align="center">
-<img src='[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=w7ivbipo6i06f111yxsuu9a1t&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)' />
-</p>
+### 🚀 Featured Project: Secure RESTful API
+I recently built a **Secure RESTful API with JWT Authentication** using:
+* **Backend:** Flask, MongoDB (MongoEngine)
+* **Security:** JWT, Bcrypt, Basic Auth
+* **Testing & DevOps:** Pytest (TDD), Docker, Docker-Compose
 
 
 
+---
+
+### 🔭 Currently Working On
+* **Refining my Capstone Project:** Optimizing performance and adding advanced features to my recent bootcamp final project.
+* **Security Research:** Applying principles from my **Google Cybersecurity Certificate** to existing projects.
+
+### 🌱 Learning & Growth
+* **CI/CD Pipelines:** Deepening my knowledge of **GitHub Actions** and **Jenkins** for automated testing and deployment.
+* **Cloud Services:** Exploring **AWS** to host containerized applications.
+
+### 👯 Collaboration & Open Source
+* I am an active contributor to the **Fedora Project**. I’m always looking to collaborate on open-source web development, system integration, or security-focused tools.
+
+### 💬 Ask Me About
+* My experience as an **Outreachy Intern** at Fedora.
+* Transitioning from **CCNA/Networking** to Full Stack Development.
+* Building secure APIs or containerizing apps with **Docker**.
+
+### 📫 Connect with Me
+* **Email:** wanyamak884@gmail.com
+* **LinkedIn:** [linkedin.com/in/kennedy-wekesa-110b86209/](https://www.linkedin.com/in/kennedy-wekesa-110b86209/)
+* **Portfolio:** [wanyama-ken.tech](https://wanyama-ken.tech)
+
+---
+
+### ⚡ Technical Toolbox
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | Python, JavaScript, HTML, CSS, C, SQL |
+| **Frameworks** | Flask, Node.js |
+| **Databases** | MongoDB, Redis, MySQL |
+| **DevOps/Tools** | Docker, Git, GitHub, Pytest, Linux (Fedora), Jenkins |
+| **Security** | JWT, OAuth2, Network Security, CCNA |
+
+---
+
+### ⚡ Fun Fact
+* **I once configured a complex corporate network on a Cisco router before I ever learned how to build a basic HTML webpage!**
