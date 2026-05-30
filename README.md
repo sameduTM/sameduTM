@@ -10,8 +10,7 @@ An AWS Certified Backend & Cloud Engineer focused on designing scalable APIs, ro
 
 ### 🚀 Featured Cloud & Backend Projects
 
-- **[Project Name 1](Link)** - High-performance backend service built with [Tech Stack]. Features automated CI/CD and serverless AWS deployment.
-- **[Project Name 2](Link)** - Full-stack web application showcasing infrastructure-as-code configuration using AWS CloudFormation.
+- **[Cruddur](Link)** - Full-stack ephemeral microblogging web application showcasing automated infrastructure-as-code configuration using AWS CloudFormation, ECS, and Postgres.
 
 ---
 
