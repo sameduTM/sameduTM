@@ -1,17 +1,48 @@
-# Hi, I'm Ken Wekesa 👋
+# Hi there, I'm Kennedy Wekesa
 
-An AWS Certified Backend & Cloud Engineer focused on designing scalable APIs, robust system architectures, and automated cloud infrastructure.
+### Backend Engineer | DevOps Enthusiast | Open Source Contributor
 
-### 🛠️ Tech Stack & Tools
+I'm a Backend and DevOps Engineer passionate about building reliable systems, scalable APIs, and automated deployment workflows. I enjoy transforming ideas into production-ready applications while ensuring they are secure, maintainable, and efficient.
 
-- **Backend:** Python | Node.js | REST APIs
-- **Cloud & DevOps:** AWS (CloudFormation, Lambda, EC2, IAM) | Docker | GitHub Actions
-- **Databases:** PostgreSQL | DynamoDB | Redis
+My experience spans backend development with Python and Flask, containerization with Docker, CI/CD automation, Linux systems administration, and database design. I also have a strong foundation in networking and cybersecurity, allowing me to approach software development with both performance and security in mind.
 
-### 🚀 Featured Cloud & Backend Projects
+## 🚀 What I'm Working On
 
-- **[Cruddur](Link)** - Full-stack ephemeral microblogging web application showcasing automated infrastructure-as-code configuration using AWS CloudFormation, ECS, and Postgres.
+* Building scalable backend applications and RESTful APIs
+* Exploring cloud-native and DevOps technologies
+* Improving deployment automation and CI/CD workflows
+* Contributing to open-source projects
+* Expanding my knowledge of cloud infrastructure and platform engineering
+
+## 🛠️ Tech Stack
+
+**Languages**
+Python • JavaScript • PHP • C • HTML • CSS
+
+**Backend**
+Flask • REST APIs • API Design • PostgreSQL • MySQL • MongoDB • Redis
+
+**DevOps & Infrastructure**
+Docker • Jenkins • Git • Linux • CI/CD • Containerization
+
+**Networking & Security**
+CCNA • Network Security • Access Control • Cybersecurity Fundamentals
+
+## 🌱 Currently Learning
+
+* Kubernetes
+* Infrastructure as Code (Terraform)
+* Cloud Platforms (AWS & Azure)
+* Advanced DevOps Practices
+
+## 🤝 Let's Connect
+
+📧 Email: [wanyamak884@gmail.com](mailto:wanyamak884@gmail.com)
+
+💼 LinkedIn: linkedin.com/in/kennedy-wekesa-110b86209
+
+⚡ Fun Fact: I enjoy solving complex backend problems, automating repetitive tasks, and contributing to technology that helps developers move faster.
 
 ---
 
-📬 **Connect with me:** [LinkedIn](Your-Link) | [Portfolio](Your-Link)
+> "Build it. Automate it. Scale it."
