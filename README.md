@@ -1,48 +1,87 @@
-# Hi there, I'm Kennedy Wekesa
+# Hi there 👋, I'm Kennedy Wekesa
 
-### Backend Engineer | DevOps Enthusiast | Open Source Contributor
+### Backend Engineer | DevOps Enthusiast | Cloud Practitioner
 
-I'm a Backend and DevOps Engineer passionate about building reliable systems, scalable APIs, and automated deployment workflows. I enjoy transforming ideas into production-ready applications while ensuring they are secure, maintainable, and efficient.
+I'm a Backend and DevOps Engineer passionate about building scalable applications, automating infrastructure, and designing cloud-native solutions. I enjoy working at the intersection of software engineering and operations, turning ideas into reliable, production-ready systems.
 
-My experience spans backend development with Python and Flask, containerization with Docker, CI/CD automation, Linux systems administration, and database design. I also have a strong foundation in networking and cybersecurity, allowing me to approach software development with both performance and security in mind.
+Recently, I've been participating in an intensive AWS Cloud Project Bootcamp where I've been building and deploying real-world cloud architectures using modern AWS services and DevOps practices.
 
-## 🚀 What I'm Working On
+## 🚀 Current Focus
 
-* Building scalable backend applications and RESTful APIs
-* Exploring cloud-native and DevOps technologies
-* Improving deployment automation and CI/CD workflows
-* Contributing to open-source projects
-* Expanding my knowledge of cloud infrastructure and platform engineering
+### AWS Cloud Project Bootcamp
 
-## 🛠️ Tech Stack
+A hands-on cloud engineering program focused on designing, deploying, and operating production-style applications on AWS.
 
-**Languages**
-Python • JavaScript • PHP • C • HTML • CSS
+Key areas covered include:
 
-**Backend**
-Flask • REST APIs • API Design • PostgreSQL • MySQL • MongoDB • Redis
+* Application Containerization with Docker
+* Distributed Tracing and Observability
+* Decentralized Authentication
+* PostgreSQL and Amazon RDS
+* DynamoDB and Serverless Caching
+* Deploying Serverless Containers
+* Load Balancing, Custom Domains, and CORS Management
+* Serverless Image Processing
+* CI/CD with CodePipeline, CodeBuild, and CodeDeploy
+* Infrastructure as Code with CloudFormation
+* Modern API Development
 
-**DevOps & Infrastructure**
-Docker • Jenkins • Git • Linux • CI/CD • Containerization
+## 🛠️ Technical Skills
 
-**Networking & Security**
-CCNA • Network Security • Access Control • Cybersecurity Fundamentals
+### Backend Development
+
+* Python
+* Flask
+* REST APIs
+* PostgreSQL
+* MySQL
+* MongoDB
+* Redis
+
+### DevOps & Cloud
+
+* AWS
+* Docker
+* Jenkins
+* Git
+* Linux
+* CI/CD
+* CloudFormation
+* Infrastructure as Code
+
+### Networking & Security
+
+* CCNA
+* Network Security
+* Access Control
+* Cybersecurity Fundamentals
 
 ## 🌱 Currently Learning
 
 * Kubernetes
-* Infrastructure as Code (Terraform)
-* Cloud Platforms (AWS & Azure)
-* Advanced DevOps Practices
+* Advanced AWS Architecture
+* Terraform
+* Platform Engineering
+* Cloud Security Best Practices
 
-## 🤝 Let's Connect
+## 📂 Featured Experience
+
+### Fedora Project (Outreachy)
+
+* Built and deployed a release scheduling platform.
+* Developed backend services using Flask and Python.
+* Designed REST APIs and containerized applications with Docker.
+* Applied Test-Driven Development using Pytest.
+* Contributed within a large open-source ecosystem.
+
+## 🤝 Connect With Me
 
 📧 Email: [wanyamak884@gmail.com](mailto:wanyamak884@gmail.com)
 
 💼 LinkedIn: linkedin.com/in/kennedy-wekesa-110b86209
 
-⚡ Fun Fact: I enjoy solving complex backend problems, automating repetitive tasks, and contributing to technology that helps developers move faster.
+⚡ I enjoy building the systems behind the screen—the APIs, infrastructure, automation, and tooling that make applications reliable at scale.
 
 ---
 
-> "Build it. Automate it. Scale it."
+> Building scalable software, automating infrastructure, and learning something new every day.
