@@ -1,87 +1,33 @@
-# Hi there 👋, I'm Kennedy Wekesa
+# Hi there, I'm Kennedy Wekesa 👋
 
-### Backend Engineer | DevOps Enthusiast | Cloud Practitioner
+### Backend & Cloud/DevOps Engineer
+Nairobi, Kenya 🇰🇪 | [LinkedIn](https://www.linkedin.com/in/kennedy-wekesa/) | [Email](mailto:wanyamak884@gmail.com)
 
-I'm a Backend and DevOps Engineer passionate about building scalable applications, automating infrastructure, and designing cloud-native solutions. I enjoy working at the intersection of software engineering and operations, turning ideas into reliable, production-ready systems.
-
-Recently, I've been participating in an intensive AWS Cloud Project Bootcamp where I've been building and deploying real-world cloud architectures using modern AWS services and DevOps practices.
-
-## 🚀 Current Focus
-
-### AWS Cloud Project Bootcamp
-
-A hands-on cloud engineering program focused on designing, deploying, and operating production-style applications on AWS.
-
-Key areas covered include:
-
-* Application Containerization with Docker
-* Distributed Tracing and Observability
-* Decentralized Authentication
-* PostgreSQL and Amazon RDS
-* DynamoDB and Serverless Caching
-* Deploying Serverless Containers
-* Load Balancing, Custom Domains, and CORS Management
-* Serverless Image Processing
-* CI/CD with CodePipeline, CodeBuild, and CodeDeploy
-* Infrastructure as Code with CloudFormation
-* Modern API Development
-
-## 🛠️ Technical Skills
-
-### Backend Development
-
-* Python
-* Flask
-* REST APIs
-* PostgreSQL
-* MySQL
-* MongoDB
-* Redis
-
-### DevOps & Cloud
-
-* AWS
-* Docker
-* Jenkins
-* Git
-* Linux
-* CI/CD
-* CloudFormation
-* Infrastructure as Code
-
-### Networking & Security
-
-* CCNA
-* Network Security
-* Access Control
-* Cybersecurity Fundamentals
-
-## 🌱 Currently Learning
-
-* Kubernetes
-* Advanced AWS Architecture
-* Terraform
-* Platform Engineering
-* Cloud Security Best Practices
-
-## 📂 Featured Experience
-
-### Fedora Project (Outreachy)
-
-* Built and deployed a release scheduling platform.
-* Developed backend services using Flask and Python.
-* Designed REST APIs and containerized applications with Docker.
-* Applied Test-Driven Development using Pytest.
-* Contributed within a large open-source ecosystem.
-
-## 🤝 Connect With Me
-
-📧 Email: [wanyamak884@gmail.com](mailto:wanyamak884@gmail.com)
-
-💼 LinkedIn: linkedin.com/in/kennedy-wekesa-110b86209
-
-⚡ I enjoy building the systems behind the screen—the APIs, infrastructure, automation, and tooling that make applications reliable at scale.
+A results-driven Full Stack & Cloud/DevOps Engineer specializing in containerized deployments, scalable microservices architectures, and automated CI/CD pipelines.
 
 ---
 
-> Building scalable software, automating infrastructure, and learning something new every day.
+### 🛠️ Tech Stack & Tools
+
+* **Languages:** Python, JavaScript, PHP, C, SQL, HTML5, CSS3
+* **Backend Frameworks:** Flask, ExpressJS, Node.js
+* **Cloud & DevOps:** AWS (ECS, Fargate, VPC, RDS, Lambda, CloudFormation, CodePipeline), Docker, Jenkins, Git, Linux
+* **Databases:** PostgreSQL, MySQL, Redis, MongoDB
+* **Testing & Quality:** Pytest, Test-Driven Development (TDD)
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[AWS Microservices Infrastructure](https://github.com/sameduTM/aws-bootcamp-cruddur-2024)** | Multi-tier containerized architecture deployed on AWS ECS Fargate with automated CI/CD pipelines. | Docker, AWS ECS, Fargate, CloudFormation |
+| **[Fedora Release Planner](https://codeberg.org/sameduTM/release-schedule-planner)** | Web platform engineered during Outreachy internship to optimize release scheduling across open-source maintainers. | Python, Flask, Docker, Pytest |
+| **[DevOps Automation Pipeline](https://github.com/sameduTM/devops-automation-pipeline)** | Continuous integration and deployment workflow enforcing strict unit testing and layer caching. | Jenkins, Docker, Pytest, Git |
+
+---
+
+### 📊 GitHub Stats
+
+![Kennedy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sameduTM&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sameduTM&layout=compact&theme=tokyonight)
